@@ -1,0 +1,45 @@
+body {
+  background-color: #00b4d8;
+}
+
+.head {
+  color: #03045e;
+}
+
+#bglime {
+  background-color: #caf0f8;
+}
+
+span {
+  color: red;
+}
+
+article > p {
+  color: white;
+}
+
+#para {
+  color: green;
+}
+
+#span{
+    color: black;
+    font-size: 25px;
+}
+
+ul li{
+    color: white;
+}
+
+a{
+    background-color: yellow;
+    color: blue;
+}
+
+ol li:nth-child(2){
+    color: blue;
+}
+
+ol li:nth-child(3){
+    color: red;
+}
